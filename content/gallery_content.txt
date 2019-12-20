@@ -1,0 +1,24 @@
+Gallery
+Movie Gallery Images
+----------------------
+
+Fields
+_________
+
+Delete Body
+Reuse Field Image
+
+-----------------------
+
+Manage Display
+
+------------
+Gallery View
+
+Layout - One Column
+Image - Visually Hidden -  Image - Thumbnail (100x100) - Link to File
+
+-----------------------------------------------------------------
+
+Galley Page
+***********

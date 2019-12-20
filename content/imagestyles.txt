@@ -1,0 +1,9 @@
+w400xh300
+ - Resize 300×400
+
+w522xh290
+ - Scale and crop 522×290	
+
+w900xh500
+ - Resize 900×600
+ - Scale and crop 900×500

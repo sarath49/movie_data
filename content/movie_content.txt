@@ -1,0 +1,49 @@
+Movie
+Movie Info base
+-------------------------
+Fields
+******
+Change 'Body' to 'Description'
+
+Cast - Term Reference
+Director - Term Reference
+Image - Existing Field
+Year - Term Reference
+
+-----------------------
+Manage Display - Front Page
+*******
+Image - Above - Image - w900xh600
+Year - Above
+Cast - Above
+Director - Above
+
+_____________________
+
+Manage Display - Movie List
+**********
+Layout - Fluid Two Column Layout
+
+Left
+
+Title - Hidden
+Image - Visually Hidden - Image - w900xh600
+
+Right
+
+Director - Above
+Cast - Above
+Year - Above
+Read More - Hidden
+_____________________
+
+Full Content
+*********
+
+Layout - One Column
+
+Image  - Visually Hidden - Image style: w900xh500
+Description - Visually Hidden
+Director - Above
+Cast - Above
+Year - Above
