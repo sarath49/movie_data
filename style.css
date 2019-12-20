@@ -1,0 +1,26 @@
+ .region-header .site-branding__name a {
+	font-size: 47px;
+    font-family: Georgia, Times, "Times New Roman";
+    color: firebrick;
+}
+
+.view-frontpage article,
+.view-movie-list .views-row {
+	padding: 24px;
+    margin: 5px;
+    background-color: beige;
+}
+
+.view-frontpage article .field_label {
+    color: #666666;
+    font-size: 13px;
+    margin: 0.35em 0 0.25em;
+    padding: 0;
+}
+
+.block-movie-page-title h1 .page-title {
+    font-size: 34px;
+    line-height: 38px;
+    letter-spacing: .36px;
+    font-family: Arial,Sans-Serif;
+}
